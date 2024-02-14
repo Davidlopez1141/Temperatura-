@@ -1,2 +1,2 @@
 # Temperatura-
-prgrama para realizar conversiones de temperatura 
+programa para realizar conversiones de temperatura 
